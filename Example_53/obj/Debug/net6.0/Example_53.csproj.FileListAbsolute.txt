@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\bin\Debug\net6.0\Example_53.exe
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\bin\Debug\net6.0\Example_53.deps.json
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\bin\Debug\net6.0\Example_53.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\bin\Debug\net6.0\Example_53.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\bin\Debug\net6.0\Example_53.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\refint\Example_53.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\Example_53.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Example_53\obj\Debug\net6.0\ref\Example_53.dll

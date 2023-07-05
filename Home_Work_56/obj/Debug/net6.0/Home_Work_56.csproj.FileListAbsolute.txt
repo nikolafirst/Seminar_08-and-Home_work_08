@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\bin\Debug\net6.0\Home_Work_56.exe
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\bin\Debug\net6.0\Home_Work_56.deps.json
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\bin\Debug\net6.0\Home_Work_56.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\bin\Debug\net6.0\Home_Work_56.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\bin\Debug\net6.0\Home_Work_56.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\refint\Home_Work_56.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\Home_Work_56.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_08\Home_Work_56\obj\Debug\net6.0\ref\Home_Work_56.dll
